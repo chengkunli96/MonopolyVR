@@ -28,6 +28,8 @@ You can see more details in `Report`floder,  including our report and video samp
 
 ![over view](https://github.com/mremilien/MonopolyVR/blob/master/images/over_view.png)
 
+
+
 ##Acknowledgements
 
 This project would not have been possible without the help of my teammates, Zijian Guo, Jiamin Wang and Zhaoyi Tan. And you can click their name to check out their GitHub page!
