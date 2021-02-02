@@ -6,7 +6,7 @@
 
 MonopolyVR is a VR game based on an American classic board game, Monopoly. You can buy the land and build houses, and you may also trigger some random events such as a puzzle game. 
 
-or a better gaming experience of users, we add more elements for  collaboration part. And we set a final goal for this game. The purpose of this game is to earn more money to build a house together in the center of the map. In order to achieve the goal, participants need to communicate with others to complete a puzzle game together and buy materials to establish their building. 
+For a better gaming experience of users, we add more elements for  collaboration part. And we set a final goal for this game. The purpose of this game is to earn more money to build a house together in the center of the map. In order to achieve the goal, participants need to communicate with others to complete a puzzle game together and buy materials to establish their building. 
 
 ## Dependencies
 
