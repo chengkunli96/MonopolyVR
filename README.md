@@ -32,8 +32,7 @@ And the over view of this game is following:
 
 ## Acknowledgements
 
-This project would not have been possible without the help of my teammates, Zijian Guo, Jiamin Wang and Zhaoyi Tan. And you can click their name to check out their GitHub page!
-
+This project would not have been possible without the help of my teammates, Zijian Guo, Jiamin Wang and Zhaoyi Tan.
 
 
   
