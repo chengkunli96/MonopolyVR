@@ -2,7 +2,7 @@
 
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-[![GitHub stars](https://img.shields.io/github/stars/mremilien/MonopolyVR.svg?style=social)](https://github.com/mremilien/MonopolyVR/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/chengkunli96/MonopolyVR.svg?style=social)](https://github.com/chengkunli96/MonopolyVR/stargazers)
 
 MonopolyVR is a VR game based on an American classic board game, Monopoly. You can buy the land and build houses, and you may also trigger some random events such as a puzzle game. 
 
